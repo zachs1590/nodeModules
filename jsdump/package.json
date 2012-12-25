@@ -1,0 +1,17 @@
+{ 
+	"name" : "jsdump",
+	"main" : "./jsdump.js",
+	"version": "0.0.1",
+	"author": "Zach Stevenson <zachs1590@gmail.com>",
+	"description": "Coldfusion's CFDump for Javascript",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zachs1590/nodeModules.git"
+	},
+	"keywords": [
+		"coldfusion",
+		"dump",
+		"cfdump",
+		"log"
+	]
+}
